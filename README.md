@@ -2,11 +2,11 @@
 
 This project is made during internship in SSPL DRDO in July 2025. It combines knowledge from Robotics, IOT & AI in order to bring out a real life product. Currently, we have developed it on low scale just to showcase an example such as detecting and picking red colored objects selectively.
 
-## 🔗 Website
+## 🌐 Website
 
 https://vision-pick-and-place.netlify.app
 
-## Project Members
+## 👥 Project Members
 
 - <a href="https://www.linkedin.com/in/amaan-naseh/">Amaan Naseh</a>
 - <a href="https://www.linkedin.com/in/arpit-parashar-681b6027a/">Arpit Parashar</a>
