@@ -13,6 +13,7 @@ https://vision-pick-and-place.netlify.app
 - <a href="https://www.linkedin.com/in/dhiraj-kadian-0a766b292/">Dhiraj Kadian</a>
 - <a href="https://www.linkedin.com/in/tanishq-sharma-0706a9289/">Tanishq Sharma</a>
 - <a href="https://www.linkedin.com/in/manyamangla">Manya Mangal</a>
+- <a href="https://www.linkedin.com/in/sneha-joshi-374a9826b/">Sneha Joshi</a>
 
 ## 💻 Dependencies
 
