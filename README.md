@@ -6,6 +6,14 @@ This project is made during internship in SSPL DRDO in July 2025. It combines kn
 
 https://vision-pick-and-place.netlify.app
 
+## Project Members
+
+- <a href="https://www.linkedin.com/in/amaan-naseh/">Amaan Naseh</a>
+- <a href="https://www.linkedin.com/in/arpit-parashar-681b6027a/">Arpit Parashar</a>
+- <a href="https://www.linkedin.com/in/dhiraj-kadian-0a766b292/">Dhiraj Kadian</a>
+- <a href="https://www.linkedin.com/in/tanishq-sharma-0706a9289/">Tanishq Sharma</a>
+- <a href="https://www.linkedin.com/in/manyamangla">Manya Mangal</a>
+
 ## 💻 Dependencies
 
 1. Robotic Arm: Robotic Arm Body, Arduino UNO, 4 Servo Motors (SG90), Servo Motor Driver (PCA 9685), 5V External Power Supply (Adapter with connector) and Jumper Wires.
@@ -17,7 +25,7 @@ https://vision-pick-and-place.netlify.app
 - Pick and Place Code: <a href="https://www.arduino.cc/en/software/">Arduino IDE</a> with libraries including Wire.h and Adafruit_PWMServoDriver.h.
 - Website: React.js, Tailwind CSS, Flask (for ML Backend)
 
-## Preview
+## 🦾 Preview
 
 ![Image](https://github.com/user-attachments/assets/3714d458-101b-4c54-ae2b-74521c09cc99)
 
