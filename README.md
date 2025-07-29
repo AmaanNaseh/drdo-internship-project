@@ -14,7 +14,11 @@ https://vision-pick-and-place.netlify.app
 - <a href="https://www.linkedin.com/in/tanishq-sharma-0706a9289/">Tanishq Sharma</a>
 - <a href="https://www.linkedin.com/in/lakshitapanchal">Lakshita Panchal</a>
 - <a href="https://www.linkedin.com/in/prathamgoel18">Pratham Goel</a>
-- <a href="https://www.linkedin.com/in/manyamangla">Manya Mangla</a>
+- <a href="https://www.linkedin.com/in/himanshu-7399ba343">Himanshu</a>
+- <a href="https://www.linkedin.com/in/divya-satwal">Divya Satwal</a>
+- <a href="https://www.linkedin.com/in/komallatwal">Komal Latwal</a>
+- <a href="https://www.linkedin.com/in/pragati-tiwari-503407265">Pragati Tiwari</a>
+- <a href="https://www.linkedin.com/in/manyamangla">Manya Mangal</a>
 - <a href="https://www.linkedin.com/in/sneha-joshi-374a9826b/">Sneha Joshi</a>
 
 ## 💻 Dependencies
